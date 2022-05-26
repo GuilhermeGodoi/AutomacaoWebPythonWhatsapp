@@ -1,5 +1,6 @@
 # Automacao Web Python WhatsappWeb
 ##### Automação Web em Python (Selenium) que altera o tema do WhatsappWeb para noturno e manda uma mensagem automática para o usuário desejado.
+Última atualização 26/05/2022 
 
 ## Passos da automação: 
 
@@ -14,3 +15,6 @@
 - CromeDriver (Este arquivo deve estar na mesma pasta de seu "python.exe", download disponivel em: https://chromedriver.chromium.org/downloads lembre-se de ter a versão compatível com a do seu navegador, caso não saiba a do seu acesse: chrome://settings/help )
 - Biblioteca Selenium instalada (No prompt: "pip install selenium") 
 
+###### Contatos:
+- guilhermegodoibarreiros2@gmail.com
+- https://www.linkedin.com/in/guilherme-godoi-barreiros/
