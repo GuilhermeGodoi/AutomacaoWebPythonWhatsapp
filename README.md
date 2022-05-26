@@ -1,7 +1,7 @@
 # Automacao Web Python WhatsappWeb
 Automação Web em Python (Selenium) que altera o tema do WhatsappWeb para noturno e manda uma mensagem automática para o usuário desejado.
 
-# Passos da automação: 
+## Passos da automação: 
 
 - Passo 1: Inicializa o Google Chrome 
 - Passo 2: Vai até https://web.whatsapp.com/
