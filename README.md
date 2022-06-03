@@ -1,6 +1,7 @@
 # Web Automation with Python on WhatsappWeb
 ##### Web Automation in Python (Selenium) that changes the WhatsappWeb theme to dark and sends an automatic message to the desired user.
-Last update 05/26/2022
+Creation date: 05/26/2022
+Last Update:   06/03/2022
 
 ## Automation steps:
 
