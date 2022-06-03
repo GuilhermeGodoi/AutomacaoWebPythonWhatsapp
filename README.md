@@ -19,3 +19,6 @@ Last Update:   06/03/2022
 ###### Contacts:
 - guilhermegodoibarreiros2@gmail.com
 - https://www.linkedin.com/in/guilherme-godoi-barreiros/
+
+### Exemple video
+https://www.youtube.com/watch?v=zB_jlU8ta8Y
