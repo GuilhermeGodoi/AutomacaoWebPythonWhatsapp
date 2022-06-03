@@ -13,7 +13,7 @@ Last Update:   06/03/2022
 
 ## Requirements:
 - Google Chrome
-- CromeDriver (This file must be in the same folder as your "python.exe", download available at: https://chromedriver.chromium.org/downloads remember to have the version compatible with your browser, if you don't know yours go to: chrome://settings/help )
+- ChromeDriver (This file must be in the same folder as your "python.exe", download available at: https://chromedriver.chromium.org/downloads remember to have the version compatible with your browser, if you don't know yours go to: chrome://settings/help )
 - Selenium library installed (At the prompt: "pip install selenium")
 
 ###### Contacts:
